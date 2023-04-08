@@ -16,7 +16,7 @@ The admin dashboard provides an interface for managing orders, products, and use
 * Edit the details of an existing user
 * Delete a user
 
-## The user interface provides an interface for placing orders. It includes the following features:
+## The user interface includes the following features:
 * View a list of all available products
 * Add a product to the cart
 * View the items in the cart
